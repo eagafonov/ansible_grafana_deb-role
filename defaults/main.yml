@@ -1,0 +1,7 @@
+grafana_version_deb: "4.4.1_amd64"
+
+grafana_http_addr: ''
+grafana_http_port: 3000
+
+grafana_allow_sign_up: true
+grafana_alerting_enabled: true
